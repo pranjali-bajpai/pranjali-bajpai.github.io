@@ -38,18 +38,18 @@ round-avatar: true
 social-network-links:
   email: "pranjali.iitrpr@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+#   facebook: deanattali
   github: pranjalibajpai
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+#   twitter: daattali
+#   patreon: DeanAttali
+#   youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
   linkedin: pranjali-bajpai
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: pranjalibajpai
+  instagram: pranjali_bajpai
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
