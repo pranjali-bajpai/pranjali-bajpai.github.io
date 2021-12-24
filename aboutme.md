@@ -1,16 +1,21 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Let's get to know me better
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Pranjali Bajpai. Electrical engineering undergrad from IIT Ropar.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Trust me you will not find anything related to EE in my posts! 
 
-What else do you need?
+I have the following qualities:
+- Overthinker
+- Overthinker 
 
-### My story
+### Why I started maintaining this blog
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Some of the *silly* reasons:
+
+- Share with others what all I know 
+- Recall myself what all I know
+- Just want to write
