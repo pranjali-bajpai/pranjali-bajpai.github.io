@@ -12,7 +12,7 @@ I have the following qualities:
 - Overthinker
 - Overthinker 
 
-### Why I started maintaining this blog *(hope so🤞!)*
+### Why I started maintaining this blog *(hope so to continue!🤞)*
 
 Some of the *silly* reasons:
 
